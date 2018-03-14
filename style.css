@@ -30,13 +30,12 @@ nav a {
 main {
     /* display:  inline-block; */
     /* margin: 0; */
-    text-align:  center;
 }
 
 section {
     /* box-sizing:  border-box; */
     align-items:  center;
-    maegin: 20px;
+
 }
 
 section {
@@ -46,16 +45,18 @@ section {
 span {
     background-color: lightgoldenrodyellow;
     display: inline-block;
-    padding-right: 44.3%;
-    padding-left: 44.3%;
     padding-top: 10px;
     padding-bottom: 10px;
     margin-bottom: 10px;
-    text-align:  center;
+    margin-left: 0.7%;
+    padding-left: 1%;
+    padding-right: 79.5%;
+    text-align: left;
     margin-top: 20px;
     font-family:  sans-serif;
     color: darkcyan;
-    font-weight:  bold;
+    font-size: 30px;
+
 }
 
 footer.article {
